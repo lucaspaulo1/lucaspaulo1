@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   I'm Lucas from <br>
   Belo Horizonte, MG <br>
   - 🔭 I’m working as Intern and Junior Research in Cryptography<br>
-  - ⚡ In my free time I study Deep Learning and Web Development
+  - ⚡ In my free time Python, AWS and Web Development
 </p>
 
 
