@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <p align="left">
   I'm Lucas from <br>
   Belo Horizonte, MG <br>
-  - 🔭 I’m working as Data Science Intern and Junior Research <br>
+  - 🔭 I’m working as Intern and Junior Research in Cryptography<br>
   - ⚡ In my free time I study Deep Learning and Web Development
 </p>
 
